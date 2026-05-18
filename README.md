@@ -12,7 +12,6 @@ Live at **https://geniustrader-harry.github.io/equity-research-archive/**.
 ```
 .
 ├── index.html              # Landing — list of coverage
-├── about.html              # Bio + methodology + disclaimer
 ├── style.css               # One shared stylesheet
 ├── tickers/
 │   └── SPOT/
@@ -68,4 +67,4 @@ Or just `open index.html` — most things work via `file://`, but the iframe-emb
 
 ## Disclaimer
 
-Personal research for educational purposes. Not investment advice. Past notes may be stale. Do your own work. Full disclaimer in [about.html](about.html).
+Personal research for educational purposes. Not investment advice. Past notes may be stale. Do your own work.
