@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Site](https://img.shields.io/badge/site-live-1a3d6f)](https://geniustrader-harry.github.io/equity-research-archive/)
 
-A personal archive of finished single-name investment pitches. Each entry has the full memo as a PDF and the underlying Excel DCF model with sensitivity. Produced through the [equity-research](https://github.com/GeniusTrader-Harry/equity-research) thesis-first skill.
+A personal archive of finished single-name investment pitches. Each entry has the full memo as a PDF and the underlying Excel DCF model with sensitivity. Produced through the [equity-research-skill](https://github.com/GeniusTrader-Harry/equity-research-skill) thesis-first workflow.
 
 Live at **https://geniustrader-harry.github.io/equity-research-archive/**.
 
